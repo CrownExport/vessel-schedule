@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CROWN SHIPPING - לו"ז הפלגות</title>
+    <style>
+        body, html { 
+            margin: 0; 
+            padding: 0; 
+            height: 100%; 
+            width: 100%; 
+            overflow: hidden; 
+            background-color: #000000; /* מונע פלאש לבן בזמן טעינת האתר */
+        }
+        iframe { 
+            border: none; 
+            width: 100%; 
+            height: 100%; 
+        }
+    </style>
+</head>
+<body>
+    <iframe src="https://script.google.com/macros/s/AKfycbw35YmlcPN1l9Km0c_7IivuNxw3iKTFr2J5Tv09vOcyS_crREFWUIjF19Ev9bRx82GZ/exec"></iframe>
+</body>
+</html>
